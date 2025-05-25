@@ -5,9 +5,10 @@ My very own custom keyboard made with a bare RP2040! Designing this was very tou
 ![image](https://github.com/user-attachments/assets/19484852-e17a-4a50-9966-ad908dd3d0f4)
 
 # BOM
-* 75x Gateron Milky Yellow Switches
-* 75x White Keycaps (all normal sized)
-* 1x PCB w/ bottom-side PCBA due to bare RP2040, tiny capacitors, resistors, and USB-C port
-* 1x White 3D Printed Case
-* 75x Diodes
+* 75x Cherry MX2A Silent Red 45g Linear Switches ($39.39 from MechanicalKeyboards.com)
+* 90x White Keycaps ($16.65 from AliExpress.com)
+* 1x PCB w/ bottom-side PCBA due to bare RP2040, tiny capacitors, resistors, and USB-C port ($85.48 from JLCPCB)
+* 1x White 3D Printed Case (printing-legion for free for now)
+* 75x Diodes ($1.07 from AliExpress)
+* Nuts, Screws (TODO)
   
