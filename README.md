@@ -10,5 +10,4 @@ My very own custom keyboard made with a bare RP2040! Designing this was very tou
 * 1x PCB w/ bottom-side PCBA due to bare RP2040, tiny capacitors, resistors, and USB-C port ($85.48 from JLCPCB)
 * 1x White 3D Printed Case (printing-legion for free for now)
 * 75x Diodes ($1.07 from AliExpress)
-* Nuts, Screws (TODO)
   
