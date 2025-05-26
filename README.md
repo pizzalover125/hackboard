@@ -7,9 +7,9 @@ My very own custom keyboard made with a bare RP2040! Designing this was very tou
 # BOM
 * 75x Cherry MX2A Silent Red 45g Linear Switches ($39.39 from MechanicalKeyboards.com)
 * 90x White Keycaps ($16.65 from AliExpress.com)
-* 1x PCB ($20.59 from JLCPCB)
+* 1x PCB ($39.40 from JLCPCB)
 * 1x Bottom-side PCBA ($10.50 from JLCPCB)
   * Idk if it includes the price of the components, but I think they add up to less than $10. 
 * 1x White 3D Printed Case (printing-legion for free for now)
 * 75x Diodes ($1.07 from AliExpress)
-**Total Price: 88.20**
+**Total Price: 107.01**
