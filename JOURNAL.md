@@ -16,3 +16,4 @@ Once I woke up, I did my morning routine and got straight to KiCad. I was determ
 
 6/X/25 (I lost the dates)
 I decided to completely redesign my project to avoid using PCBA. I had to reroute everything FROM SCRATCH, but it was wayyyyy easier. I used an Orpheus Pico, as I already have one at hand. I'm also using this interesting layout thats sort of like a split keyboard with a numpad in the middle. That's pretty much the most interesting thing of my keyboard. I also redesigned the case. I wanted to have intruded text, but turns out that's next to impossible. 
+<img width="970" height="600" alt="image" src="https://github.com/user-attachments/assets/9aeb023b-0172-4be4-9987-10a758207416" />
