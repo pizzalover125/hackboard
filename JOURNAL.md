@@ -1,7 +1,7 @@
 ---
 title: "pizzaBoard"
 author: "pizzalover125"
-description: "A custom bare RP2040 ortholinear keyboard."
+description: "A custom ortholinear keyboard."
 created_at: "2025-5-25"
 ---
 **Time Spent: 15 hours**
