@@ -13,3 +13,6 @@ I made the schematic, which was somewhat difficult. I decided to make it using a
 Once I woke up, I did my morning routine and got straight to KiCad. I was determined to finish the keyboard. I routed a couple more times and eventually got it! It was SOOOOOOOOOOOOOOOOOOOO rewarding. My design is pretty simple as it uses a ton of vias. The image I put below resembles multiple hours of blood, sweat, and tears /hj. The case was a breeze. It's super simple with a sandwich design like HackPad.
 
 ![image](https://github.com/user-attachments/assets/98549919-16a8-41cf-b534-abf830c8de1c)
+
+6/X/25 (I lost the dates)
+I decided to completely redesign my project to avoid using PCBA. I had to reroute everything FROM SCRATCH, but it was wayyyyy easier. I used an Orpheus Pico, as I already have one at hand. I'm also using this interesting layout thats sort of like a split keyboard with a numpad in the middle. That's pretty much the most interesting thing of my keyboard. I also redesigned the case. I wanted to have intruded text, but turns out that's next to impossible. 
