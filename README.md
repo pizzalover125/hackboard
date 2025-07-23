@@ -1,8 +1,8 @@
 # mini75
 75 keys. ultra minimalism. game-changing
 ![image](https://github.com/user-attachments/assets/f5fd8695-4e21-414f-a25e-b2bca89222b8)
-![image](https://github.com/user-attachments/assets/e4b7b47d-cfa7-469d-89c3-051196969439)
-![image](https://github.com/user-attachments/assets/c64f788d-b9ae-4613-9117-0cab7245dd6c)
+<img width="889" height="672" alt="image" src="https://github.com/user-attachments/assets/14e4c251-bfcc-475b-b730-66cc647648e3" />
+
 ![image](https://github.com/user-attachments/assets/a4b84af7-2656-436f-ab16-3455e5da50e2)
 
 
